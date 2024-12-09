@@ -1,0 +1,10 @@
+nama: Itoshiko Nurahman 
+email: n@gmail.com
+nomor: 12312312312
+kamar: Kamar Bersih
+
+nama: Itoshiko Nurahman 
+email: itoshikonurahman@gmail.com
+nomor: 221
+kamar: Kamar Mewah
+
